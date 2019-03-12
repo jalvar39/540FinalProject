@@ -1,0 +1,41 @@
+Source of all the apks: https://apkpure.com/
+1. Youtube
+	Version 14.08.55 (2019-03-01)
+2. WhatsApp Messenger
+	Version 2.19.63 (2019-02-28)
+3. Messenger
+	Version 205.0.0.18.110 (2019-03-06)
+4. Instagram
+	Version 83.0.0.20.111 (2019-03-05)
+5. Skype
+	Version 8.40.0.86 (2019-03-06)
+6. Dropbox
+	Version 132.2.2 (2019-03-01)
+7. Twitter
+	Version 7.85.0-release.35 (2019-03-04)
+8. Snapchat
+	Version 10.52.2.0 (2019-03-09)
+9. Clean Master
+	Version 7.0.7 (2019-03-11)
+10. SHAREit
+	Version 4.7.18_ww (2019-03-07)
+11. Facebook Lite
+	Version 137.0.0.10.106 (2019-03-12)
+12. Amazon Shopping
+	Version 18.5.0.100 (2019-03-07)
+13. PayPal
+	Version 7.5.1 (2019-03-06)
+14. Zillow
+	Version 10.3.0.8428 (2019-03-07)
+15. Words with Friends
+	Version 12.111 (2019-03-01)
+16. Spotify
+	Version 8.4.96.953 (2019-03-11)
+17. LINE
+	Version 9.2.2 (2019-03-04)
+18. Clash of Clans
+	Version 11.185.19 (2019-02-26)
+19. iHeartRadio
+	Version 8.18.1 (2019-02-15)
+20. The Weather Channel
+	Version 9.1.5 (2019-02-22)
